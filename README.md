@@ -1,3 +1,7 @@
-# AI-for-Robotics
-# Udacity Course that includes:
-# Localization, Kalman filter and Particle filter, Path Planning algorithm, Robot motion and PID, Integration.
+# Udacity : AI-for-Robotics
+
+1) Localization
+2) Kalman filter 
+3) Particle filter
+4) Path Planning
+5) Robot motion and PID
